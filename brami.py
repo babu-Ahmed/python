@@ -3,4 +3,4 @@ b=10
 c=30
 print(a+b)
 print(a+c)
-print ("asklfdjalskdfj")
+print(10**2)
