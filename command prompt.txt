@@ -1,0 +1,10 @@
+cd = change directory
+mkdir = make a directory
+cd .. = go to one level up
+cd / = go to the top level directory
+dir = list the files and folders in current direcoty
+
+python = command to execute the python code
+copy = copy one file content into another
+cls = clear screen
+type = print the contents of the file to the output.
