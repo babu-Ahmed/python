@@ -5,7 +5,7 @@ myoxford={
 24:"roll no"
 }
 print(myoxford)
-
+# please use a more meaningful variable name
 nums = [22,33,44,55]
 
 print("the minimum in", nums, "is", min(nums))
